@@ -1,0 +1,6 @@
+# 我的周末电影播放列表
+file '/home/user/Videos/movie1.mp4'
+file '/home/user/Videos/movie2.mkv'
+file '/home/user/Videos/concert.avi'
+
+# 这是一个注释，播放器会忽略它
